@@ -1,0 +1,6 @@
+/*
+#if !defined (null)
+	#define null 0
+#endif
+*/
+typedef NULL null;

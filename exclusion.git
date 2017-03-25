@@ -1,0 +1,6 @@
+*.journal
+*.log
+*.obj
+*.act
+*.do
+*.elf
